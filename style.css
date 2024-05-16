@@ -15,3 +15,15 @@ h1, #sub-title {
 h1:hover, h2:hover, h3:hover {
     text-decoration: underline blue solid 4px;
 }
+
+tr, th, td {
+    text-align: left;
+    width: 20%;
+}
+
+img {
+    border-radius: 50%;
+    float: left;
+    margin-top: 0.6rem;
+    margin-left: 1rem;
+}
